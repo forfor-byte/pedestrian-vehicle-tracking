@@ -33,7 +33,8 @@
 1. **克隆本仓库到本地**
    ```bash
   git clone https://github.com/forfor-byte/pedestrian-vehicle-tracking.git
-cd pedestrian-vehicle-tracking
+  cd pedestrian-vehicle-tracking
+  ``
 
 2. **安装依赖**
      ```bash
