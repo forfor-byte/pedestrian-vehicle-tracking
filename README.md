@@ -32,4 +32,15 @@
 
 1. **克隆本仓库到本地**
    ```bash
-   git clone https://gitee.com/你的用户名/仓库名.git
+  git clone https://github.com/forfor-byte/pedestrian-vehicle-tracking.git
+cd pedestrian-vehicle-tracking
+
+2. **安装依赖**
+     ```bash
+     pip install ultralytics opencv-python Pillow numpy
+     
+2. **启动系统**
+   ```bash
+   python 1.py
+   ```
+   
